@@ -1,0 +1,7 @@
+{
+  "name": "ionic-practice3-Todo-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
